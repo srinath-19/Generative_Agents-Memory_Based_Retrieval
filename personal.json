@@ -1,0 +1,1364 @@
+[
+  {
+    "node_count": 60,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 06:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "waking up",
+    "description": "Alex Chen is waking up and checking his phone for any urgent Slack messages from the team",
+    "embedding_key": "Alex Chen is waking up and checking his phone for any urgent Slack messages from the team",
+    "poignancy": 2,
+    "keywords": [
+      "waking up",
+      "Slack",
+      "morning"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 59,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 06:30:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "preparing",
+    "description": "Alex Chen is preparing his gym bag with protein shaker and workout gloves for his morning session",
+    "embedding_key": "Alex Chen is preparing his gym bag with protein shaker and workout gloves for his morning session",
+    "poignancy": 2,
+    "keywords": [
+      "gym",
+      "preparation",
+      "morning"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 58,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 07:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working out",
+    "description": "Alex Chen is doing heavy bench press sets at Iron Peak Gym, working up to 225 lbs for a new personal record",
+    "embedding_key": "Alex Chen is doing heavy bench press sets at Iron Peak Gym, working up to 225 lbs for a new personal record",
+    "poignancy": 6,
+    "keywords": [
+      "gym",
+      "bench press",
+      "personal record",
+      "Iron Peak Gym"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 57,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 07:45:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "finishing",
+    "description": "Alex Chen is finishing his workout with a cool-down stretching routine and drinking his protein shake",
+    "embedding_key": "Alex Chen is finishing his workout with a cool-down stretching routine and drinking his protein shake",
+    "poignancy": 2,
+    "keywords": [
+      "gym",
+      "cool-down",
+      "protein shake"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 56,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 09:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working",
+    "description": "Alex Chen is starting his workday by reviewing pull requests for the LLM inference pipeline optimization",
+    "embedding_key": "Alex Chen is starting his workday by reviewing pull requests for the LLM inference pipeline optimization",
+    "poignancy": 5,
+    "keywords": [
+      "work",
+      "pull requests",
+      "LLM",
+      "inference pipeline"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 55,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 10:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "attending",
+    "description": "Alex Chen is attending the daily standup meeting and presenting progress on the RAG system for the customer support chatbot",
+    "embedding_key": "Alex Chen is attending the daily standup meeting and presenting progress on the RAG system for the customer support chatbot",
+    "poignancy": 4,
+    "keywords": [
+      "standup",
+      "RAG",
+      "chatbot",
+      "meeting"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 54,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-28 10:30:00",
+    "expiration": "2025-03-28 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "fine-tuning approach",
+    "description": "Alex Chen is thinking about whether LoRA fine-tuning would be more efficient than full fine-tuning for the customer sentiment model, given the limited GPU budget",
+    "embedding_key": "Alex Chen is thinking about whether LoRA fine-tuning would be more efficient than full fine-tuning for the customer sentiment model, given the limited GPU budget",
+    "poignancy": 7,
+    "keywords": [
+      "LoRA",
+      "fine-tuning",
+      "GPU",
+      "sentiment model"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 53,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 11:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "coding",
+    "description": "Alex Chen is implementing a new chunking strategy for the RAG pipeline using recursive character text splitting with overlap",
+    "embedding_key": "Alex Chen is implementing a new chunking strategy for the RAG pipeline using recursive character text splitting with overlap",
+    "poignancy": 6,
+    "keywords": [
+      "RAG",
+      "chunking",
+      "text splitting",
+      "coding"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 52,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 12:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "eating",
+    "description": "Alex Chen is having lunch at his desk while reading the latest Anthropic research paper on constitutional AI",
+    "embedding_key": "Alex Chen is having lunch at his desk while reading the latest Anthropic research paper on constitutional AI",
+    "poignancy": 3,
+    "keywords": [
+      "lunch",
+      "Anthropic",
+      "constitutional AI",
+      "research paper"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 51,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-28 12:30:00",
+    "expiration": "2025-03-28 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "prompt engineering",
+    "description": "Alex Chen is reflecting on how chain-of-thought prompting significantly improved the accuracy of the classification model from 78% to 91% in yesterday's experiments",
+    "embedding_key": "Alex Chen is reflecting on how chain-of-thought prompting significantly improved the accuracy of the classification model from 78% to 91% in yesterday's experiments",
+    "poignancy": 8,
+    "keywords": [
+      "chain-of-thought",
+      "prompt engineering",
+      "accuracy",
+      "classification"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 50,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2025-02-28 13:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "chat with",
+    "object": "Priya Sharma",
+    "description": "conversing about Alex and Priya are discussing the best vector database for their production RAG system, comparing Pinecone vs Weaviate vs pgvector, and deciding to benchmark all three this week",
+    "embedding_key": "conversing about Alex and Priya are discussing the best vector database for their production RAG system, comparing Pinecone vs Weaviate vs pgvector, and deciding to benchmark all three this week",
+    "poignancy": 7,
+    "keywords": [
+      "Priya Sharma",
+      "vector database",
+      "RAG",
+      "Pinecone",
+      "Weaviate"
+    ],
+    "filling": [
+      [
+        "Alex Chen",
+        "Hey Priya, I've been looking into vector databases for our RAG pipeline. Have you had any experience with Pinecone?"
+      ],
+      [
+        "Priya Sharma",
+        "Yeah, Pinecone is solid but pricey at scale. Have you considered Weaviate or even pgvector since we already use Postgres?"
+      ],
+      [
+        "Alex Chen",
+        "Good point about pgvector. Let's benchmark all three this week and compare latency and recall metrics."
+      ],
+      [
+        "Priya Sharma",
+        "Sounds like a plan. I'll set up the Weaviate instance and you handle Pinecone. We can share results Friday."
+      ]
+    ]
+  },
+  {
+    "node_count": 49,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 14:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "debugging",
+    "description": "Alex Chen is debugging a tokenization issue where the LLM is truncating long customer queries beyond the 4096 token context window",
+    "embedding_key": "Alex Chen is debugging a tokenization issue where the LLM is truncating long customer queries beyond the 4096 token context window",
+    "poignancy": 5,
+    "keywords": [
+      "debugging",
+      "tokenization",
+      "context window",
+      "LLM"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 48,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 16:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "deploying",
+    "description": "Alex Chen is deploying the updated embedding model to the staging environment using Docker and Kubernetes",
+    "embedding_key": "Alex Chen is deploying the updated embedding model to the staging environment using Docker and Kubernetes",
+    "poignancy": 5,
+    "keywords": [
+      "deployment",
+      "embedding model",
+      "Docker",
+      "Kubernetes"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 47,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 17:30:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "wrapping up",
+    "description": "Alex Chen is wrapping up his work and pushing final commits to the feature branch for the RAG improvements",
+    "embedding_key": "Alex Chen is wrapping up his work and pushing final commits to the feature branch for the RAG improvements",
+    "poignancy": 3,
+    "keywords": [
+      "git",
+      "commits",
+      "RAG",
+      "end of day"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 46,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-28 18:30:00",
+    "expiration": "2025-03-28 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "nutrition strategy",
+    "description": "Alex Chen is thinking about whether he should switch from a bulking diet to a lean bulk approach since he has been gaining a bit too much fat alongside muscle and cutting season is approaching",
+    "embedding_key": "Alex Chen is thinking about whether he should switch from a bulking diet to a lean bulk approach since he has been gaining a bit too much fat alongside muscle and cutting season is approaching",
+    "poignancy": 5,
+    "keywords": [
+      "nutrition",
+      "bulking",
+      "lean bulk",
+      "cutting",
+      "diet"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 45,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-28 19:00:00",
+    "expiration": "2025-03-28 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "gym progress",
+    "description": "Alex Chen is reflecting on his gym progress this month and feeling proud about hitting a 225 lb bench press and a 315 lb squat, both personal records",
+    "embedding_key": "Alex Chen is reflecting on his gym progress this month and feeling proud about hitting a 225 lb bench press and a 315 lb squat, both personal records",
+    "poignancy": 7,
+    "keywords": [
+      "gym",
+      "progress",
+      "bench press",
+      "squat",
+      "personal record"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 44,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 20:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "studying",
+    "description": "Alex Chen is watching Andrej Karpathy's YouTube lecture on building GPT from scratch and taking detailed notes",
+    "embedding_key": "Alex Chen is watching Andrej Karpathy's YouTube lecture on building GPT from scratch and taking detailed notes",
+    "poignancy": 6,
+    "keywords": [
+      "Karpathy",
+      "GPT",
+      "studying",
+      "lecture"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 43,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-28 22:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "sleeping",
+    "description": "Alex Chen is going to bed after setting his alarm for 6 AM for tomorrow's gym session",
+    "embedding_key": "Alex Chen is going to bed after setting his alarm for 6 AM for tomorrow's gym session",
+    "poignancy": 1,
+    "keywords": [
+      "sleep",
+      "alarm",
+      "gym"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 42,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-27 23:00:00",
+    "expiration": "2025-03-27 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "plan",
+    "object": "Friday February 28",
+    "description": "This is Alex Chen's plan for Friday February 28: wake up at 6:00 AM, go to Iron Peak Gym for chest and triceps day at 7:00 AM, start work at 9:00 AM reviewing PRs, standup at 10:00 AM, work on RAG pipeline until lunch, benchmark vector databases in the afternoon, wrap up by 5:30 PM, cook dinner, study LLM papers in the evening",
+    "embedding_key": "This is Alex Chen's plan for Friday February 28: wake up at 6:00 AM, go to Iron Peak Gym for chest and triceps day at 7:00 AM, start work at 9:00 AM reviewing PRs, standup at 10:00 AM, work on RAG pipeline until lunch, benchmark vector databases in the afternoon, wrap up by 5:30 PM, cook dinner, study LLM papers in the evening",
+    "poignancy": 5,
+    "keywords": [
+      "plan",
+      "gym",
+      "work",
+      "RAG"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 41,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-27 06:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "waking up",
+    "description": "Alex Chen is waking up and having a black coffee before heading to the gym",
+    "embedding_key": "Alex Chen is waking up and having a black coffee before heading to the gym",
+    "poignancy": 1,
+    "keywords": [
+      "waking up",
+      "coffee",
+      "gym"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 40,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-27 07:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working out",
+    "description": "Alex Chen is doing a back and biceps workout at Iron Peak Gym, focusing on deadlifts and barbell rows",
+    "embedding_key": "Alex Chen is doing a back and biceps workout at Iron Peak Gym, focusing on deadlifts and barbell rows",
+    "poignancy": 4,
+    "keywords": [
+      "gym",
+      "back",
+      "biceps",
+      "deadlifts",
+      "Iron Peak Gym"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 39,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-27 09:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working",
+    "description": "Alex Chen is writing a technical design document for migrating the LLM serving infrastructure from vLLM to TensorRT-LLM",
+    "embedding_key": "Alex Chen is writing a technical design document for migrating the LLM serving infrastructure from vLLM to TensorRT-LLM",
+    "poignancy": 7,
+    "keywords": [
+      "design document",
+      "vLLM",
+      "TensorRT-LLM",
+      "infrastructure"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 38,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2025-02-27 10:30:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "chat with",
+    "object": "Jordan Lee",
+    "description": "conversing about Alex and Jordan are discussing whether to use GPT-4 or Claude for the internal code review assistant, weighing cost vs quality tradeoffs and agreeing to run an A/B test",
+    "embedding_key": "conversing about Alex and Jordan are discussing whether to use GPT-4 or Claude for the internal code review assistant, weighing cost vs quality tradeoffs and agreeing to run an A/B test",
+    "poignancy": 6,
+    "keywords": [
+      "Jordan Lee",
+      "GPT-4",
+      "Claude",
+      "code review",
+      "A/B test"
+    ],
+    "filling": [
+      [
+        "Alex Chen",
+        "Jordan, I've been testing Claude for the code review assistant and the output quality is really impressive."
+      ],
+      [
+        "Jordan Lee",
+        "I agree, but GPT-4 has better function calling. Have we compared costs at our expected volume?"
+      ],
+      [
+        "Alex Chen",
+        "Good point. Let's set up an A/B test this sprint and collect quality metrics from the engineers."
+      ],
+      [
+        "Jordan Lee",
+        "Deal. I'll create the evaluation rubric and we can start collecting feedback Monday."
+      ]
+    ]
+  },
+  {
+    "node_count": 37,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-27 12:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "eating",
+    "description": "Alex Chen is eating lunch at the office cafeteria with teammates and discussing the latest OpenAI announcements",
+    "embedding_key": "Alex Chen is eating lunch at the office cafeteria with teammates and discussing the latest OpenAI announcements",
+    "poignancy": 3,
+    "keywords": [
+      "lunch",
+      "OpenAI",
+      "team",
+      "cafeteria"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 36,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-27 13:00:00",
+    "expiration": "2025-03-27 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "model evaluation",
+    "description": "Alex Chen is thinking that the current evaluation metrics for the chatbot are insufficient and they need to add human preference ratings alongside BLEU and ROUGE scores to truly measure response quality",
+    "embedding_key": "Alex Chen is thinking that the current evaluation metrics for the chatbot are insufficient and they need to add human preference ratings alongside BLEU and ROUGE scores to truly measure response quality",
+    "poignancy": 7,
+    "keywords": [
+      "evaluation",
+      "metrics",
+      "BLEU",
+      "ROUGE",
+      "human preference"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 35,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-27 14:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "presenting",
+    "description": "Alex Chen is presenting the LLM cost optimization results to the engineering team, showing a 40% reduction in API costs through prompt caching and batching",
+    "embedding_key": "Alex Chen is presenting the LLM cost optimization results to the engineering team, showing a 40% reduction in API costs through prompt caching and batching",
+    "poignancy": 8,
+    "keywords": [
+      "presentation",
+      "cost optimization",
+      "API costs",
+      "prompt caching"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 34,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-27 16:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "experimenting",
+    "description": "Alex Chen is experimenting with different embedding models, comparing all-MiniLM-L6-v2 with BGE-large for the document retrieval task",
+    "embedding_key": "Alex Chen is experimenting with different embedding models, comparing all-MiniLM-L6-v2 with BGE-large for the document retrieval task",
+    "poignancy": 6,
+    "keywords": [
+      "embedding models",
+      "MiniLM",
+      "BGE",
+      "retrieval"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 33,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-27 18:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "shopping",
+    "description": "Alex Chen is grocery shopping for his weekly meal prep, buying chicken, rice, broccoli, eggs, and whey protein",
+    "embedding_key": "Alex Chen is grocery shopping for his weekly meal prep, buying chicken, rice, broccoli, eggs, and whey protein",
+    "poignancy": 2,
+    "keywords": [
+      "grocery",
+      "meal prep",
+      "protein",
+      "shopping"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 32,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-27 20:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "reading",
+    "description": "Alex Chen is reading the Attention Is All You Need paper again to better understand multi-head attention mechanisms for a blog post he is writing",
+    "embedding_key": "Alex Chen is reading the Attention Is All You Need paper again to better understand multi-head attention mechanisms for a blog post he is writing",
+    "poignancy": 5,
+    "keywords": [
+      "attention",
+      "transformer",
+      "paper",
+      "blog post"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 31,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-26 06:30:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working out",
+    "description": "Alex Chen is doing a leg day workout at Iron Peak Gym with heavy squats and leg press",
+    "embedding_key": "Alex Chen is doing a leg day workout at Iron Peak Gym with heavy squats and leg press",
+    "poignancy": 4,
+    "keywords": [
+      "gym",
+      "leg day",
+      "squats",
+      "leg press",
+      "Iron Peak Gym"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 30,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-26 09:30:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working",
+    "description": "Alex Chen is setting up a new LangChain agent with tool use capabilities for the internal knowledge base search",
+    "embedding_key": "Alex Chen is setting up a new LangChain agent with tool use capabilities for the internal knowledge base search",
+    "poignancy": 6,
+    "keywords": [
+      "LangChain",
+      "agent",
+      "tool use",
+      "knowledge base"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 29,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-26 11:00:00",
+    "expiration": "2025-03-26 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "workout consistency",
+    "description": "Alex Chen is thinking about how his consistent gym routine of 5 days per week has improved not just his physique but also his mental clarity and focus during coding sessions",
+    "embedding_key": "Alex Chen is thinking about how his consistent gym routine of 5 days per week has improved not just his physique but also his mental clarity and focus during coding sessions",
+    "poignancy": 6,
+    "keywords": [
+      "gym",
+      "consistency",
+      "mental clarity",
+      "focus",
+      "coding"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 28,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2025-02-26 14:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "chat with",
+    "object": "Marcus Webb",
+    "description": "conversing about Alex and Marcus are discussing their gym routines and Marcus is asking Alex for advice on a good push-pull-legs split for building muscle while maintaining energy for long coding sessions",
+    "embedding_key": "conversing about Alex and Marcus are discussing their gym routines and Marcus is asking Alex for advice on a good push-pull-legs split for building muscle while maintaining energy for long coding sessions",
+    "poignancy": 5,
+    "keywords": [
+      "Marcus Webb",
+      "gym",
+      "push-pull-legs",
+      "muscle",
+      "coding"
+    ],
+    "filling": [
+      [
+        "Marcus Webb",
+        "Hey Alex, I've been wanting to get more serious about lifting. What split do you follow?"
+      ],
+      [
+        "Alex Chen",
+        "I do a push-pull-legs split, 5 days a week. The key is keeping sessions under 90 minutes so you still have energy for work."
+      ],
+      [
+        "Marcus Webb",
+        "That makes sense. Do you find it affects your productivity at all?"
+      ],
+      [
+        "Alex Chen",
+        "Honestly it improved it. The morning gym sessions wake me up better than any coffee. I do my best coding right after the gym."
+      ]
+    ]
+  },
+  {
+    "node_count": 27,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-26 15:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "running",
+    "description": "Alex Chen is running inference benchmarks on the new quantized Llama 3 model to measure tokens per second on their A100 GPU cluster",
+    "embedding_key": "Alex Chen is running inference benchmarks on the new quantized Llama 3 model to measure tokens per second on their A100 GPU cluster",
+    "poignancy": 7,
+    "keywords": [
+      "benchmarks",
+      "Llama 3",
+      "quantization",
+      "A100",
+      "inference"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 26,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-26 17:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "writing",
+    "description": "Alex Chen is writing unit tests for the prompt template validation module to ensure all templates have required variables",
+    "embedding_key": "Alex Chen is writing unit tests for the prompt template validation module to ensure all templates have required variables",
+    "poignancy": 4,
+    "keywords": [
+      "unit tests",
+      "prompt template",
+      "validation",
+      "testing"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 25,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-25 07:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working out",
+    "description": "Alex Chen is doing a shoulder and arms workout at Iron Peak Gym with overhead press and dumbbell curls",
+    "embedding_key": "Alex Chen is doing a shoulder and arms workout at Iron Peak Gym with overhead press and dumbbell curls",
+    "poignancy": 3,
+    "keywords": [
+      "gym",
+      "shoulders",
+      "arms",
+      "overhead press",
+      "Iron Peak Gym"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 24,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-25 09:00:00",
+    "expiration": "2025-03-25 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "career growth",
+    "description": "Alex Chen is thinking about how the LLM engineering field is evolving rapidly and he needs to stay ahead by learning about multimodal models and agents, possibly taking on a side project with vision-language models",
+    "embedding_key": "Alex Chen is thinking about how the LLM engineering field is evolving rapidly and he needs to stay ahead by learning about multimodal models and agents, possibly taking on a side project with vision-language models",
+    "poignancy": 8,
+    "keywords": [
+      "career",
+      "multimodal",
+      "agents",
+      "vision-language models",
+      "growth"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 23,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-25 10:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "debugging",
+    "description": "Alex Chen is debugging a hallucination issue in the customer support chatbot where the model makes up product features that don't exist",
+    "embedding_key": "Alex Chen is debugging a hallucination issue in the customer support chatbot where the model makes up product features that don't exist",
+    "poignancy": 7,
+    "keywords": [
+      "debugging",
+      "hallucination",
+      "chatbot",
+      "product features"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 22,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-25 13:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "implementing",
+    "description": "Alex Chen is implementing guardrails for the LLM output using a secondary classifier to detect and filter harmful or off-topic responses",
+    "embedding_key": "Alex Chen is implementing guardrails for the LLM output using a secondary classifier to detect and filter harmful or off-topic responses",
+    "poignancy": 7,
+    "keywords": [
+      "guardrails",
+      "classifier",
+      "safety",
+      "LLM output"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 21,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2025-02-25 14:30:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "chat with",
+    "object": "Priya Sharma",
+    "description": "conversing about Alex and Priya are discussing the hallucination problem in the chatbot and Priya is suggesting using retrieval-augmented generation with strict source attribution to reduce fabricated answers",
+    "embedding_key": "conversing about Alex and Priya are discussing the hallucination problem in the chatbot and Priya is suggesting using retrieval-augmented generation with strict source attribution to reduce fabricated answers",
+    "poignancy": 8,
+    "keywords": [
+      "Priya Sharma",
+      "hallucination",
+      "RAG",
+      "source attribution"
+    ],
+    "filling": [
+      [
+        "Alex Chen",
+        "Priya, the chatbot is still hallucinating product specs. We need a better solution than just prompt engineering."
+      ],
+      [
+        "Priya Sharma",
+        "I think we should enforce strict source attribution. Every claim in the response must map back to a retrieved document chunk."
+      ],
+      [
+        "Alex Chen",
+        "That's a great idea. We could add a verification step that checks each fact against the source chunks."
+      ],
+      [
+        "Priya Sharma",
+        "Exactly. And if the model can't ground a claim, it should say it doesn't know rather than making something up."
+      ]
+    ]
+  },
+  {
+    "node_count": 20,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-25 16:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working",
+    "description": "Alex Chen is fine-tuning a Mistral 7B model on customer support conversations using QLoRA with 4-bit quantization",
+    "embedding_key": "Alex Chen is fine-tuning a Mistral 7B model on customer support conversations using QLoRA with 4-bit quantization",
+    "poignancy": 7,
+    "keywords": [
+      "fine-tuning",
+      "Mistral",
+      "QLoRA",
+      "quantization",
+      "customer support"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 19,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-25 18:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "cooking",
+    "description": "Alex Chen is meal prepping for the week, making five containers of grilled salmon with sweet potato and asparagus",
+    "embedding_key": "Alex Chen is meal prepping for the week, making five containers of grilled salmon with sweet potato and asparagus",
+    "poignancy": 3,
+    "keywords": [
+      "meal prep",
+      "cooking",
+      "salmon",
+      "nutrition"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 18,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-25 21:00:00",
+    "expiration": "2025-03-25 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "work-life balance",
+    "description": "Alex Chen is thinking that he should start incorporating rest days into his gym schedule more strictly because he felt fatigued during his squat session and it might be affecting his recovery",
+    "embedding_key": "Alex Chen is thinking that he should start incorporating rest days into his gym schedule more strictly because he felt fatigued during his squat session and it might be affecting his recovery",
+    "poignancy": 5,
+    "keywords": [
+      "rest days",
+      "fatigue",
+      "recovery",
+      "gym",
+      "work-life balance"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 17,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-24 07:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working out",
+    "description": "Alex Chen is doing a chest and triceps push workout at Iron Peak Gym, hitting incline bench press and cable flyes",
+    "embedding_key": "Alex Chen is doing a chest and triceps push workout at Iron Peak Gym, hitting incline bench press and cable flyes",
+    "poignancy": 4,
+    "keywords": [
+      "gym",
+      "chest",
+      "triceps",
+      "incline bench",
+      "Iron Peak Gym"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 16,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-24 09:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "attending",
+    "description": "Alex Chen is attending a sprint planning meeting where the team is prioritizing the LLM guardrails feature and the RAG pipeline improvements",
+    "embedding_key": "Alex Chen is attending a sprint planning meeting where the team is prioritizing the LLM guardrails feature and the RAG pipeline improvements",
+    "poignancy": 5,
+    "keywords": [
+      "sprint planning",
+      "guardrails",
+      "RAG",
+      "meeting",
+      "team"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 15,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-24 11:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "researching",
+    "description": "Alex Chen is researching the latest advances in mixture-of-experts architectures after reading about Mixtral and how it achieves GPT-4 level performance with fewer active parameters",
+    "embedding_key": "Alex Chen is researching the latest advances in mixture-of-experts architectures after reading about Mixtral and how it achieves GPT-4 level performance with fewer active parameters",
+    "poignancy": 6,
+    "keywords": [
+      "mixture-of-experts",
+      "Mixtral",
+      "architecture",
+      "research"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 14,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-24 12:00:00",
+    "expiration": "2025-03-24 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "team collaboration",
+    "description": "Alex Chen is thinking that Priya has been an excellent collaborator on the RAG project and he should recommend her for the tech lead promotion since she has deep knowledge of both retrieval systems and LLM architectures",
+    "embedding_key": "Alex Chen is thinking that Priya has been an excellent collaborator on the RAG project and he should recommend her for the tech lead promotion since she has deep knowledge of both retrieval systems and LLM architectures",
+    "poignancy": 7,
+    "keywords": [
+      "Priya",
+      "collaboration",
+      "promotion",
+      "RAG",
+      "tech lead"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 13,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-24 14:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "coding",
+    "description": "Alex Chen is building a custom evaluation harness for the chatbot using LLM-as-judge approach with Claude to rate response quality",
+    "embedding_key": "Alex Chen is building a custom evaluation harness for the chatbot using LLM-as-judge approach with Claude to rate response quality",
+    "poignancy": 6,
+    "keywords": [
+      "evaluation",
+      "LLM-as-judge",
+      "Claude",
+      "chatbot",
+      "quality"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 12,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-24 17:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "tracking",
+    "description": "Alex Chen is logging his workout in his fitness tracking app: bench press 4x8 at 205 lbs, incline dumbbell press 3x10 at 70 lbs, cable flyes 3x12",
+    "embedding_key": "Alex Chen is logging his workout in his fitness tracking app: bench press 4x8 at 205 lbs, incline dumbbell press 3x10 at 70 lbs, cable flyes 3x12",
+    "poignancy": 3,
+    "keywords": [
+      "workout log",
+      "bench press",
+      "fitness tracking"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 11,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-23 08:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "resting",
+    "description": "Alex Chen is taking a rest day from the gym and doing light yoga stretches at home instead",
+    "embedding_key": "Alex Chen is taking a rest day from the gym and doing light yoga stretches at home instead",
+    "poignancy": 2,
+    "keywords": [
+      "rest day",
+      "yoga",
+      "recovery"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 10,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-23 10:00:00",
+    "expiration": "2025-03-23 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "open source contribution",
+    "description": "Alex Chen is considering contributing to the LangChain open source project by submitting a PR for a better document loader that handles PDF tables more accurately",
+    "embedding_key": "Alex Chen is considering contributing to the LangChain open source project by submitting a PR for a better document loader that handles PDF tables more accurately",
+    "poignancy": 6,
+    "keywords": [
+      "open source",
+      "LangChain",
+      "contribution",
+      "PDF",
+      "document loader"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 9,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-23 12:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working",
+    "description": "Alex Chen is working on a personal side project to build a local AI assistant using Ollama with Llama 3 running on his home server",
+    "embedding_key": "Alex Chen is working on a personal side project to build a local AI assistant using Ollama with Llama 3 running on his home server",
+    "poignancy": 5,
+    "keywords": [
+      "side project",
+      "Ollama",
+      "Llama 3",
+      "local AI",
+      "home server"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 8,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2025-02-23 15:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "chat with",
+    "object": "Sarah Kim",
+    "description": "conversing about Alex and Sarah are discussing the upcoming AI engineering conference and whether they should submit a talk proposal about their production RAG system and lessons learned from deploying LLMs at scale",
+    "embedding_key": "conversing about Alex and Sarah are discussing the upcoming AI engineering conference and whether they should submit a talk proposal about their production RAG system and lessons learned from deploying LLMs at scale",
+    "poignancy": 7,
+    "keywords": [
+      "Sarah Kim",
+      "conference",
+      "talk proposal",
+      "RAG",
+      "LLM deployment"
+    ],
+    "filling": [
+      [
+        "Sarah Kim",
+        "Alex, have you seen the call for proposals for the AI Engineering Conference? I think our RAG work would make a great talk."
+      ],
+      [
+        "Alex Chen",
+        "I saw that! We could talk about the journey from prototype to production and the scaling challenges we faced."
+      ],
+      [
+        "Sarah Kim",
+        "Exactly. And the hallucination mitigation work with source attribution would be really valuable for the audience."
+      ],
+      [
+        "Alex Chen",
+        "Let's draft an abstract this week. I'll cover the technical architecture and you can cover the evaluation methodology."
+      ]
+    ]
+  },
+  {
+    "node_count": 7,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-23 17:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "studying",
+    "description": "Alex Chen is taking an online course on advanced retrieval techniques including HyDE, multi-query retrieval, and parent document retrieval",
+    "embedding_key": "Alex Chen is taking an online course on advanced retrieval techniques including HyDE, multi-query retrieval, and parent document retrieval",
+    "poignancy": 5,
+    "keywords": [
+      "course",
+      "HyDE",
+      "retrieval techniques",
+      "learning"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 6,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-22 20:00:00",
+    "expiration": "2025-03-22 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "deadlift form",
+    "description": "Alex Chen is thinking he needs to work on his deadlift form because his lower back was sore after the last session, and he should probably deload by 10% and focus on hip hinge mechanics",
+    "embedding_key": "Alex Chen is thinking he needs to work on his deadlift form because his lower back was sore after the last session, and he should probably deload by 10% and focus on hip hinge mechanics",
+    "poignancy": 5,
+    "keywords": [
+      "deadlift",
+      "form",
+      "injury prevention",
+      "deload"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 5,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-22 07:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "working out",
+    "description": "Alex Chen is doing pull day at Iron Peak Gym with barbell rows, lat pulldowns, and face pulls",
+    "embedding_key": "Alex Chen is doing pull day at Iron Peak Gym with barbell rows, lat pulldowns, and face pulls",
+    "poignancy": 3,
+    "keywords": [
+      "gym",
+      "pull day",
+      "barbell rows",
+      "lat pulldowns",
+      "Iron Peak Gym"
+    ],
+    "filling": []
+  },
+  {
+    "node_count": 4,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-22 10:00:00",
+    "expiration": "2025-03-22 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "protein intake",
+    "description": "Alex Chen is calculating that he needs to increase his daily protein intake to at least 180 grams to support muscle growth at his current training intensity, and thinking about adding a second protein shake",
+    "embedding_key": "Alex Chen is calculating that he needs to increase his daily protein intake to at least 180 grams to support muscle growth at his current training intensity, and thinking about adding a second protein shake",
+    "poignancy": 4,
+    "keywords": [
+      "protein",
+      "nutrition",
+      "muscle growth",
+      "diet"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 3,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-22 14:00:00",
+    "expiration": "2025-03-22 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "LLM future",
+    "description": "Alex Chen is thinking about how the shift from large monolithic models to smaller specialized models with routing could change how they build AI products, and wondering if they should start designing their architecture to support model routing",
+    "embedding_key": "Alex Chen is thinking about how the shift from large monolithic models to smaller specialized models with routing could change how they build AI products, and wondering if they should start designing their architecture to support model routing",
+    "poignancy": 8,
+    "keywords": [
+      "model routing",
+      "specialized models",
+      "architecture",
+      "AI products"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 2,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2025-02-22 16:00:00",
+    "expiration": "2025-03-22 00:00:00",
+    "subject": "Alex Chen",
+    "predicate": "reflect",
+    "object": "gym community",
+    "description": "Alex Chen is thinking about how the regulars at Iron Peak Gym have become like a second social circle and he appreciates the encouragement from his gym buddy Marcus who always pushes him to do one more rep",
+    "embedding_key": "Alex Chen is thinking about how the regulars at Iron Peak Gym have become like a second social circle and he appreciates the encouragement from his gym buddy Marcus who always pushes him to do one more rep",
+    "poignancy": 5,
+    "keywords": [
+      "gym community",
+      "Iron Peak Gym",
+      "Marcus",
+      "social",
+      "motivation"
+    ],
+    "filling": null
+  },
+  {
+    "node_count": 1,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2025-02-22 18:00:00",
+    "expiration": null,
+    "subject": "Alex Chen",
+    "predicate": "is",
+    "object": "attending",
+    "description": "Alex Chen is attending a virtual LLM meetup where engineers are sharing their experiences with deploying retrieval-augmented generation systems in production",
+    "embedding_key": "Alex Chen is attending a virtual LLM meetup where engineers are sharing their experiences with deploying retrieval-augmented generation systems in production",
+    "poignancy": 6,
+    "keywords": [
+      "meetup",
+      "LLM",
+      "RAG",
+      "production",
+      "community"
+    ],
+    "filling": []
+  }
+]

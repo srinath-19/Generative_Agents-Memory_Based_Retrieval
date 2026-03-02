@@ -1,0 +1,10 @@
+[project]
+name = "generative-agents-and-memory-based-retrieval"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "sentence-transformers>=5.2.3",
+]
